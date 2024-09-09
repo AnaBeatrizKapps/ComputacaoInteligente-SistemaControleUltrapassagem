@@ -50,7 +50,7 @@ Tabela  4 - variável velocidade do  veículo a frente (vvf)
 
 | Termo | Representação   | Intervalo numérico |
 | -------------- | ----------- | ----------- |
-| Rápida | R | [90,...,200|
+| Rápida | R | [90,...,200]|
 | Adequada| A | [60,...,90] |
 | Lenta | L | [0,..,60] |
 
