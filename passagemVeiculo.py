@@ -86,9 +86,9 @@ st.set_page_config(page_title='Sistema de Controle de Ultrapassagem', layout='wi
 
 # Definição das variáveis linguísticas
 da = ctrl.Antecedent(np.arange(0, 121, 1), 'distancia_adequada')
-da['boa'] = fuzz.trimf(da.universe, [30, 45, 60])
-da['media'] = fuzz.trimf(da.universe, [60, 75, 90])
-da['ruim'] = fuzz.trimf(da.universe, [90, 105, 120])
+da['boa'] = fuzz.trimf(da.universe, [3, 4.5, 6])
+da['media'] = fuzz.trimf(da.universe, [6, 7.5, 9])
+da['ruim'] = fuzz.trimf(da.universe, [9, 10.5, 12])
 
 pl = ctrl.Antecedent(np.arange(0, 2, 1), 'pista_livre')
 pl['livre'] = fuzz.trimf(pl.universe, [0, 0, 1])
