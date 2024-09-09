@@ -32,6 +32,35 @@ Tabela 1 - variável distância adequada para ultrapassagem (da)
 | Média| M | [60,...,90] |
 | Ruim | R | [90,...,120] |
 
+Tabela 2 - variável permissão para ultrapassagem (pu)
+
+| Termo | Representação |
+| -------------- | ----------- |
+| Negada | N |
+| Permitida| P |
+
+Tabela 3 - variável verificação pista livre (pl)
+
+| Termo | Representação |
+| -------------- | ----------- |
+| Livre | L |
+| Obstruída| O |
+
+Tabela  4 - variável velocidade do  veículo a frente (vvf)
+
+| Termo | Representação   | Intervalo numérico |
+| -------------- | ----------- | ----------- |
+| Rápida | R | [90,...,200|
+| Adequada| A | [60,...,90] |
+| Lenta | L | [0,..,60] |
+
+Tabela 5 - variável visibilidade (v)
+
+| Termo | Representação |
+| -------------- | ----------- |
+| Ruim | R |
+| Boa| B |
+
 ### Execução
 
 Para executar o programa, abra o terminal e navegue até a pasta raíz do projeto e em seguida, execute o seguinte comando:
