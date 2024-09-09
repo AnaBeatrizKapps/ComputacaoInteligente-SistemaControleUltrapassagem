@@ -28,9 +28,9 @@ Tabela 1 - variável distância adequada para ultrapassagem (da)
 
 | Termo | Representação   | Intervalo numérico |
 | -------------- | ----------- | ----------- |
-| Boa | B | [3,...,6]|
-| Média| M | [6,...,9] |
-| Ruim | R | [9,...,12] |
+| Boa | B | [30,...,60]|
+| Média| M | [60,...,90] |
+| Ruim | R | [90,...,120] |
 
 Tabela 2 - variável permissão para ultrapassagem (pu)
 
