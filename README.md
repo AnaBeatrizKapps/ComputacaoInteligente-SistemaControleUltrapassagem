@@ -61,6 +61,15 @@ Tabela 5 - variável visibilidade (v)
 | Ruim | R |
 | Boa| B |
 
+### Regras de inferência
+
+```
+1. IF (da is B) AND (pl is L) AND (v is B) AND (vvf is A) THEN (pu is P)
+2. IF (da is M) AND (pl is L) AND (v is B) AND (vvf is A) THEN (pu is P)
+3. IF (da is R) AND (pl is O) AND (v is R) AND (vvf is L) THEN (pu is N)
+4. IF (da is B) AND (pl is L) AND (v is B) AND (vvf is R) THEN (pu is N)
+```
+
 ### Execução
 
 Para executar o programa, abra o terminal e navegue até a pasta raíz do projeto e em seguida, execute o seguinte comando:
